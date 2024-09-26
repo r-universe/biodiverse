@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "AHMbook"]
+	path = AHMbook
+	url = https://github.com/biodiverse/ahmbook
+[submodule "spAbundance"]
+	path = spAbundance
+	url = https://github.com/biodiverse/spabundance
+[submodule "ubms"]
+	path = ubms
+	url = https://github.com/biodiverse/ubms
+[submodule "unmarked"]
+	path = unmarked
+	url = https://github.com/biodiverse/unmarked
