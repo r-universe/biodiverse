@@ -8,6 +8,9 @@
 [submodule "spAbundance"]
 	path = spAbundance
 	url = https://github.com/biodiverse/spabundance
+[submodule "spOccupancy"]
+	path = spOccupancy
+	url = https://github.com/biodiverse/spoccupancy
 [submodule "ubms"]
 	path = ubms
 	url = https://github.com/biodiverse/ubms
